@@ -1,0 +1,17 @@
+{
+  "name": "ndi-front-reblochons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc && sass sass:css",
+    "watch-ts": "tsc -w",
+    "watch-sass": "sass -w sass:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.56.1",
+    "typescript": "^4.9.3"
+  }
+}

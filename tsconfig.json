@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "moduleResolution": "classic",
+    "target": "ES6",
+    "sourceMap": true,
+    "outDir": "js"
+  }, "include": [ "typescript/**/*" ]
+}
